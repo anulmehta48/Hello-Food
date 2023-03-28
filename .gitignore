@@ -1,0 +1,15 @@
+# Node artifact files
+node_modules/
+dist/
+
+# Compiled Java class file
+*.class
+
+# Compiled python bytecode
+*.py[cod]
+ 
+# Log file
+*.Log
+
+# Package files
+*.jar

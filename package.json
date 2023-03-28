@@ -1,0 +1,35 @@
+{
+  "name": "hello-food",
+  "version": "1.0.0",
+  "description": "This is food odering web app like - swiggy",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anulmehta48/Hello-food.git"
+  },
+  "author": "Anul Mehta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anulmehta48/Hello-food/issues"
+  },
+  "homepage": "https://github.com/anulmehta48/Hello-food#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "formik": "^2.2.9",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.8.0",
+    "react-router-dom": "^6.9.0",
+    "yup": "^1.0.2"
+  },
+  "browserlist": [
+    "last 10 versions"
+  ]
+}
