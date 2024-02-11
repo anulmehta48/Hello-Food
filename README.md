@@ -1,4 +1,3 @@
-# Hello-food
 ---
 title: "ReactJs Interview Question 2023"
 description: "Find the top React job interview questions for 2023 for beginners, frontend developers, junior developers as well as for experienced developers which might help you cracking your next interview."
